@@ -8,3 +8,5 @@ Inventory Control: Track gym equipment, supplies, and maintenance schedules.
 Financial Management: Handle membership fees, payments, and generate financial reports.
 Staff Management: Manage employee information, schedules, and performance metrics.
 Customer Relationship Management: Enhance customer engagement and retention through personalized communication.
+# Language are used
+HTML, CSS and JavaScript
